@@ -1,1 +1,593 @@
+#EXTM3U
+=======================================   #    MOROCCO     # =======================================
+
+#EXTINF:-1 tvg-id="MBC5.ae" tvg-logo="https://i.imgur.com/fRWaDyF.png" group-title="General",MBC 5
+https://mbc5-prod-dub-ak.akamaized.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
+
+#EXTINF:-1 tvg-id="2MInternational.ma" tvg-logo="https://i.imgur.com/MvpntzA.png" group-title="General",2M Monde (360p)
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
+
+#EXTINF:-1 tvg-id="AlAoulaEurope.ma" tvg-logo="https://i.imgur.com/df7D3KR.png" group-title="Undefined",Al Aoula International (360p)
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter.m3u8
+
+#EXTINF:-1 tvg-id="AlAoulaLaayoune.ma" tvg-logo="https://i.imgur.com/wFgljHj.png" group-title="General",Al Aoula Laayoune (360p)
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/al_aoula_laayoune.m3u8
+
+#EXTINF:-1 tvg-id="AlMaghribia.ma" tvg-logo="https://i.imgur.com/7GaahYh.png" group-title="General",Al Maghribia (360p)
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/al_maghribia_snrt.m3u8
+
+#EXTINF:-1 tvg-id="AlmagharibiaTV.uk" tvg-logo="https://i.imgur.com/XE6OWcb.png" group-title="Undefined",Almagharibia TV (1080p)
+https://ythls.armelin.one/channel/UCwKS2U-DwjPZZvM6mSXPKgA.m3u8
+
+#EXTINF:-1 tvg-id="Arryadia.ma" tvg-logo="https://i.imgur.com/XjzK3gZ.png" group-title="Sports",Arryadia (360p) [Not 24/7]
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia.m3u8
+
+#EXTINF:-1 tvg-id="Assadissa.ma" tvg-logo="https://i.imgur.com/un6qTGO.png" group-title="General",Assadissa (360p)
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/assadissa.m3u8
+
+#EXTINF:-1 tvg-id="ChadaTV.ma" tvg-logo="https://i.imgur.com/inJyJBN.png" group-title="Undefined",Chada TV (720p)
+https://chadatv.vedge.infomaniak.com/livecast/chadatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="M24TV.ma" tvg-logo="https://i.imgur.com/7uv5Feu.png" group-title="News",M24 TV (720p) [Not 24/7]
+https://63df3191463ce.streamlock.net/live/ngrp:Live2.stream_all/index.m3u8
+
+#EXTINF:-1 tvg-id="Medi1TVMaghreb.ma" tvg-logo="https://i.imgur.com/MosTwQW.png" group-title="News",Medi 1 TV Maghreb (1080p) [Not 24/7]
+https://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Medi1TVArabic.ma" tvg-logo="https://i.imgur.com/n7Wr9mR.png" group-title="News",Medi 1 TV Arabic (1080p) [Not 24/7]
+http://5f72f3a9b06b7.streamlock.net/live/smil:medi1ar.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TamazightTV.ma" tvg-logo="https://i.imgur.com/fm6S7we.png" group-title="General",Tamazight (360p)
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/tamazight_tv8_snrt.m3u8
+
+#EXTINF:-1,MA: Al Ons TV
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/11163
+
+#EXTINF:-1,MA: Aflam TV
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/226057
+
+======================================= #      BEIN SPORT / SPORT CHANNELS     # ======================================
+
+#EXTINF:-1, AR_BeIN_Sport_01_HD
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/1
+#EXTINF:-1,AR_BEIN_Sport_01_Hevc50
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/52269
+#EXTINF:-1,AR_BeIN_Sport_02_SD
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/3245
+#EXTINF:-1,AR_BeIN_Sport_02_HD
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/2
+#EXTINF:-1,AR_BEIN_Sport_02_Hevc50
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/48878
+#EXTINF:-1,AR_BeIN_Sport_03_SD
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/3246
+#EXTINF:-1,AR_BeIN_Sport_03_HD
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/3
+#EXTINF:-1,AR_BEIN_Sport_03_Hevc50
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/48879
+#EXTINF:-1,AR_BeIN_Sport_04_SD
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/3247
+#EXTINF:-1,AR_BeIN_Sport_04_HD
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/4
+#EXTINF:-1,AR_BeIN_Sport_04_Hevc50
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/49606
+#EXTINF:-1,AR_BeIN_Sport_05_SD
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/49383
+#EXTINF:-1,AR_BeIN_Sport_05_HD
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/5
+#EXTINF:-1,AR_BeIN_Sport_05_Hevc50
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/49605
+#EXTINF:-1,AR_BeIN_Sport_06_SD
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/49384
+#EXTINF:-1,AR_BeIN_Sport_06_HD
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/6
+#EXTINF:-1,AR_BeIN_Sport_06_Hevc50
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/49621
+#EXTINF:-1,AR_BeIN_Sport_07_SD
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/49385
+#EXTINF:-1,AR_BeIN_Sport_07_HD
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/7
+#EXTINF:-1,BeIN_Sport_07_Hevc50
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/49433
+#EXTINF:-1,AR_BeIN_Sport_08_SD
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/49685
+#EXTINF:-1,AR_BeIN_Sport_08_HD
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/9
+#EXTINF:-1,AR_BeIN_Sport_08_Hevc50
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/51018
+#EXTINF:-1,BeIN_Sport_09_SD
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/49386
+#EXTINF:-1,AR_BeIN_Sport_09_HD
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/8
+#EXTINF:-1,AR_BeIN_Sport_09_Hevc50
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/11
+#EXTINF:-1,AR_BeIN_Sport_XTRA_01
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/10
+#EXTINF:-1,AR_BeIN_Sport_XTRA_02
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/53670
+
+#EXTINF:-1 tvg-id="beINSPORTSXTRA.us" tvg-logo="https://i.imgur.com/uJosqHh.png" group-title="Sports",BeIN SPORTS XTRA (720p)
+https://lnc-bein.tubi.video/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV SPORT : BeIN Sports Xtra (720p) [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=66.0.3515.44&includeExtendedEvents=false&serverSideAds=tr&sid=855d6801-c912-428d-b620-ede4dd0c3b15&userId=
+
+#EXTINF:-1,BEIN_Sports_News
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/2296
+
+#EXTINF:-1,AR_BEIN_SPORTS_MAX_1_AF
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/56065
+
+#EXTINF:-1,AR_BEIN_SPORTS_MAX_2_AF
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/56066
+
+#EXTINF:-1,AR_BEIN_SPORTS_MAX_1_AS
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/56067
+
+#EXTINF:-1,AR_BEIN_SPORTS_MAX_2_AS
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/56068
+
+#EXTINF:-1,AR_BEIN_SPORTS_MAX_1_AF1
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/56229
+
+#EXTINF:-1,AR_BEIN_SPORTS_MAX_1_FHD_AF
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/56230
+
+#EXTINF:-1,BeIN_Sport_NBA_HD
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/49691
+
+#EXTINF:-1,FR_Foot+ 24/24_HD
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/51646
+#EXTINF:-1,FR_BeIN_SPORTS_1_HD
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/3682
+#EXTINF:-1,FR_BeIN_SPORTS_2_HD
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/47302
+#EXTINF:-1,FR_BeIN_SPORTS_3_HD
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/3680
+#EXTINF:-1,FR_BEIN_SPORT_MAX_07
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/49617
+
+#EXTINF:-1,FR_BeIN_SPORTS_3_FullHD
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/52172
+
+#EXTINF:-1,FR_BeIN_SPORTS_1_FullHD
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/73
+
+#EXTINF:-1,FR_BeIN_SPORTS_2_FullHD
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/74
+
+#EXTINF:-1,BeIN_Sport_01_French_HD
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/54472
+#EXTINF:-1,BeIN_Sport_02_French_HD
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/54473
+#EXTINF:-1,FR: BEIN SPORTS 1 HEVC
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/53324
+#EXTINF:-1,FR: BEIN SPORTS 2 HEVC
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/53325
+#EXTINF:-1,FR: BEIN SPORTS 3 HEVC
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/53326
+
+#EXTINF:-1,FR_BEIN_SPORT_MAX_08
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/49616
+#EXTINF:-1,FR_BEIN_SPORT_MAX_09
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/49615
+#EXTINF:-1,FR_BEIN_SPORT_MAX_05
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/49619
+#EXTINF:-1,FR_BEIN_SPORT_MAX_04
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/49620
+#EXTINF:-1,FR_BEIN_SPORT_MAX_06
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/49618
+#EXTINF:-1,FR_BEIN_SPORT_MAX_10
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/49614
+#EXTINF:-1,FR_MULTISPORT_01_HD
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/53639
+#EXTINF:-1,FR_MULTISPORT_02_HD
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/53640
+#EXTINF:-1,FR_MULTISPORT_03_HD
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/53641
+#EXTINF:-1,FR_MULTISPORT_04_HD
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/53642
+#EXTINF:-1,FR_MULTISPORT_05_HD
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/53643
+#EXTINF:-1,FR_MULTISPORT_06_HD
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/53644
+
+#EXTINF:-1,FR: Amazon Prime 1 FHD [Match Time]
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/53927
+#EXTINF:-1,FR: Amazon Prime 2 FHD [Match Time]
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/53928
+#EXTINF:-1,FR: Amazon Prime 3 FHD [Match Time]
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/53929
+#EXTINF:-1,FR: Amazon Prime 4 FHD [Match Time]
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/53930
+#EXTINF:-1,FR: Amazon Prime 5 FHD [Match Time]
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/53931
+#EXTINF:-1,FR: Amazon Prime 6 FHD [Match Time]
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/53932
+#EXTINF:-1,FR: Amazon Prime 7 FHD [Match Time]
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/53933
+#EXTINF:-1,FR: Amazon Prime 8 FHD [Match Time]
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/53934
+#EXTINF:-1,AMAZON PRIME LIGUE 2 LIVE 1
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/54841
+#EXTINF:-1,AMAZON PRIME LIGUE 2 LIVE 2 
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/54842
+#EXTINF:-1,AMAZON PRIME LIGUE 2 LIVE 3
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/54843
+#EXTINF:-1,AMAZON PRIME LIGUE 2 LIVE 4
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/54844
+#EXTINF:-1,AMAZON PRIME LIGUE 2 LIVE 5
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/54845
+#EXTINF:-1,AMAZON PRIME LIGUE 2 LIVE 6
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/54846
+
+#EXTINF:-1,USA: BEIN Sports 1
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/3587
+
+#EXTINF:-1,USA: beIN Sports 3
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/54352
+#EXTINF:-1,USA: Bein Sports 2
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/54350
+#EXTINF:-1,USA: beIN Sports 4
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/54353
+#EXTINF:-1,USA: beIN Sports 5
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/54354
+#EXTINF:-1,USA: beIN Sports 6
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/54355
+#EXTINF:-1,USA: beIN Sports 7
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/54356
+#EXTINF:-1,USA: beIN Sports 8
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/54357
+#EXTINF:-1,PH: beIN Sports 1
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/55597
+#EXTINF:-1,PH: beIN Sports 3
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/55598
+#EXTINF:-1,BeIN_Sport_01_English_HD
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/54470
+#EXTINF:-1,BeIN_Sport_02_English_HD
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/54469
+#EXTINF:-1,BeIN_Sport_03_English_HD
+http://server.sibfungold.info:8080/edyedynson/EYUOz77tZC24hQUiNzWV/54471
+
+#EXTINF:-1 tvg-id="beINSPORTSXTRA.us" tvg-logo="https://i.imgur.com/uJosqHh.png" group-title="Sports",BeIN SPORTS XTRA (720p)
+https://lnc-bein.tubi.video/playlist.m3u8
+
+#EXTINF:-1 ,USA_NBA 1
+http://38.96.178.201/live/NBA/index.m3u8
+
+#EXTINF:-1,FR: beIN Sports 1
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/144
+
+#EXTINF:-1, tvg-id="BeinSport1.fr" tvg-logo="https://static.epg.best/fr/BeinSports1.fr.png" tvg-name="BeIn Sports 1 FHD"  group-title="Sports",BeIn Sports 1 FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=2816&extension=ts&play_token=fubq0ZpVWx&sn2=
+
+#EXTINF:-1,AR - Bein Sport 1 HD
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/59734
+
+#EXTINF:-1,FR - BEIN SPORT 1 HD
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/58753
+
+#EXTINF:-1,AR - Bein Sport English 1
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/59741
+
+#EXTINF:-1, tvg-id="BeinSpor2..fr" tvg-logo="https://static.epg.best/fr/BeinSports2.fr.png" tvg-name="BeIn Sports 2 FHD"  group-title="Sports",BeIn Sports 2 FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=2818&extension=ts&play_token=NetqiLLyMA&sn2=
+
+#EXTINF:-1,FR - BEIN SPORT 2 HD
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/58754
+
+#EXTINF:-1,AR - Bein Sport 2 HD
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/59735
+
+#EXTINF:-1,FR: beIN Sports 2
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/145
+
+#EXTINF:-1, tvg-id="BeinSport3.fr" tvg-logo="https://static.epg.best/fr/BeinSports3.fr.png" tvg-name="BeIn Sports 3 FHD"  group-title="Sports",BeIn Sports 3 FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=2820&extension=ts&play_token=fSU4CBEl5o&sn2=
+
+#EXTINF:-1,FR - BEIN SPORT 3 HD
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/58755
+
+#EXTINF:-1,AR - Bein Sport 3 HD
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/59736
+
+#EXTINF:-1,FR: beIN Sports 3
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/146
+
+#EXTINF:-1,AR - Bein Sport English 3
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/59742
+
+#EXTINF:-1,FR: beIN Sports Max 4
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/3599
+
+#EXTINF:-1,FR - BEIN SPORTS MAX 4 HD
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/58756
+
+#EXTINF:-1,FR: beIN Sports Max 5
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/6083
+
+#EXTINF:-1,FR - BEIN SPORT MAX HD 5
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/58757
+
+#EXTINF:-1,AR - Bein Sport 5 HD
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/59738
+
+#EXTINF:-1,FR: beIN Sports Max 6
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/4368
+
+#EXTINF:-1,FR - BEIN SPORT MAX HD 6
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/58758
+
+#EXTINF:-1,AR - Bein Sport 6 HD
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/59739
+
+#EXTINF:-1,FR: beIN Sports Max 7
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/4369
+
+#EXTINF:-1,FR - BEIN SPORT MAX HD 7
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/58759
+
+#EXTINF:-1,AR - Bein Sport 7 HD
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/59740
+
+#EXTINF:-1,FR: beIN Sports Max 8
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/4370
+
+#EXTINF:-1,FR - BEIN SPORT MAX HD 8
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/58760
+
+#EXTINF:-1,FR: beIN Sports Max 9
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/4371
+
+#EXTINF:-1,FR - BEIN SPORT MAX HD 9
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/58761
+
+#EXTINF:-1,FR: beIN Sports Max 10
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/6088
+
+#EXTINF:-1,USA - BEIN SPORTS US
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/58476
+
+#EXTINF:-1, tvg-id="CanalPlus.fr" tvg-logo="https://static.epg.best/fr/CanalPlus.fr.png" tvg-name="Canal+ FHD"  group-title="Sports",Canal+ FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=43972&extension=ts&play_token=CfU9GIzt83&sn2=
+
+#EXTINF:-1, tvg-id="CanalPlusFoot.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal-plus-foot-fr.png" tvg-name="Canal+ Foot FHD"  group-title="Sports",Canal+ Foot FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=418308&extension=ts&play_token=gI9BEIsFGv&sn2=
+
+#EXTINF:-1, tvg-id="CanalPlusSport360.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal-plus-sport-360-fr.png" tvg-name="Canal+ Sport 360 FHD"  group-title="Sports",Canal+ Sport 360 FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=418307&extension=ts&play_token=BUkrdm9NKD&sn2=
+
+#EXTINF:-1, tvg-id="CanalPlusSport.fr" tvg-logo="https://static.epg.best/fr/CanalPlusSport.fr.png" tvg-name="Canal+ Sport FHD"  group-title="Sports",Canal+ Sport FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=2804&extension=ts&play_token=we3qaeVQwz&sn2=
+
+#EXTINF:-1, tvg-id="InfosportPlus.fr" tvg-logo="https://static.epg.best/fr/InfosportPlus.fr.png" tvg-name="Infosport+ FHD"  group-title="Sports",Infosport+ FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=2802&extension=ts&play_token=PEX5WpVqN4&sn2=
+
+#EXTINF:-1, tvg-id="RMCSport1.fr" tvg-logo="https://static.epg.best/fr/RMCSport1.fr.png" tvg-name="RMC Sport 1 FHD"  group-title="Sports",RMC Sport 1 FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=2808&extension=ts&play_token=SdkGLGkoNA&sn2=
+
+#EXTINF:-1, tvg-id="RMCSport2.fr" tvg-logo="https://static.epg.best/fr/RMCSport2.fr.png" tvg-name="RMC Sport 2 FHD"  group-title="Sports",RMC Sport 2 FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:BC:CF:06&stream=2810&extension=ts&play_token=LE8LjwuM4i&sn2=
+
+#EXTINF:-1 tvg-id="BahrainSports1.bh" tvg-logo="https://i.imgur.com/fBpLsbC.png" group-title="Sports",Bahrain Sports 1 (720p) [Not 24/7]
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BahrainSports2.bh" tvg-logo="https://i.imgur.com/ZkuZmIo.png" group-title="Sports",Bahrain Sports 2 (720p) [Not 24/7]
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Channel24Sports.sa" tvg-logo="https://i.imgur.com/Wob8bz1.png" group-title="Sports",Channel 24 Sports (720p)
+https://ythls.armelin.one/channel/UCGnTP2NwS6ZJwmXBTsS2w-w.m3u8
+
+#EXTINF:-1 tvg-id="DubaiRacing2.ae" tvg-logo="https://i.imgur.com/H2TTn7t.png" group-title="Sports",Dubai Racing 2 (1080p)
+https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DubaiRacing3.ae" tvg-logo="https://i.imgur.com/Vg4fxmc.png" group-title="Sports",Dubai Racing 3 (1080p)
+https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DubaiRacing.ae" tvg-logo="https://i.imgur.com/BpcV8jS.png" group-title="Sports",Dubai Racing (1080p)
+https://dmisvthvll.cdn.mgmlcdn.com/events/smil:events.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DubaiSports1.ae" tvg-logo="https://i.imgur.com/Poxw8lG.png" group-title="Sports",Dubai Sports 1 (1080p)
+https://dmitnthfr.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="DubaiSports2.ae" tvg-logo="https://i.imgur.com/PMJ7Zmo.png" group-title="Sports",Dubai Sports 2 (720p)
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
+
+#EXTINF:-1 tvg-id="DubaiSports3.ae" tvg-logo="https://i.imgur.com/U0A8Gex.png" group-title="Sports",Dubai Sports 3 (1080p) [Not 24/7]
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+
+#EXTINF:-1 tvg-id="KSASports1.sa" tvg-logo="https://i.imgur.com/ONKNOAp.png" group-title="Sports",KSA Sports 1 (1080p) [Not 24/7]
+https://edge.taghtia.com/sa/9.m3u8
+
+#EXTINF:-1 tvg-id="KSASports2.sa" tvg-logo="https://i.imgur.com/v8ULLqg.png" group-title="Sports",KSA Sports 2 (1080p) [Not 24/7]
+https://edge.taghtia.com/sa/10.m3u8
+
+#EXTINF:-1 tvg-id="KSASports3.sa" tvg-logo="https://i.imgur.com/BXfCvez.png" group-title="Sports",KSA Sports 3 (1080p) [Not 24/7]
+https://edge.taghtia.com/sa/16.m3u8
+
+#EXTINF:-1 tvg-id="OmanSportsTV.om" tvg-logo="https://i.imgur.com/1omi7p8.png" group-title="Sports",Oman Sports TV (1080p) [Not 24/7]
+https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="SSC1HD.sa" tvg-logo="https://i.imgur.com/dM7GQXG.png" group-title="Sports",SSC 1 (720p)
+https://af.ayassport.ir/hls2/ssc1.m3u8
+
+#EXTINF:-1,FR: RMC SPORT 5
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1940
+
+#EXTINF:-1,FR: RMC SPORT 7
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/20883
+
+#EXTINF:-1,FR: RMC SPORT 8
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/20884
+
+#EXTINF:-1,FR: RMC SPORT 9
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/20885
+
+#EXTINF:-1,FR: RMC SPORT 10
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/192025
+
+#EXTINF:-1,FR: RMC SPORT 12
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/20887
+
+#EXTINF:-1,FR: RMC SPORT 13
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/20890
+
+#EXTINF:-1,FR: RMC SPORT 1
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1937
+
+#EXTINF:-1,FR: RMC SPORT 2
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1938
+
+#EXTINF:-1,FR: RMC SPORT 3
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/279991
+
+#EXTINF:-1,FR: RMC SPORT 4
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/279752
+
+#EXTINF:-1,FR: MultiSports 1
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/290572
+
+#EXTINF:-1,FR: MultiSports 2
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/290573
+
+#EXTINF:-1,FR: MultiSports 3
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/290574
+
+#EXTINF:-1,FR: MultiSports 4
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/290575
+
+#EXTINF:-1,FR: MultiSports 5
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/290576
+
+#EXTINF:-1,FR: MultiSports 6
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/290577
+
+#EXTINF:-1,FR: Eurosport 1
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/151
+
+#EXTINF:-1,FR: Eurosport 2
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1195
+
+#EXTINF:-1,FR: Foot+
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1193
+
+#EXTINF:-1,FR: Canal Play
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/163135
+
+#EXTINF:-1,FR: Canal Play 2
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1887
+
+#EXTINF:-1,FR: Canal Play 3
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/228
+
+#EXTINF:-1,FR: Canal Play 4
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/229
+
+#EXTINF:-1,FR: Canal Play 5
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/13603
+
+#EXTINF:-1,FR: Canal Play 6
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/13722
+
+#EXTINF:-1,FR: Canal Play 7
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/230
+
+#EXTINF:-1,FR: Canal Play 8
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/14041
+
+#EXTINF:-1,FR: Canal Play 9
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/13724
+
+#EXTINF:-1,FR: Canal Play 10
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/1890
+
+#EXTINF:-1,FR: CANAL+ Premier League
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/286794
+
+#EXTINF:-1,FR: CANAL+ Foot
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/297371
+
+#EXTINF:-1,FR: CANAL+ Sport
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/143
+
+#EXTINF:-1,FR: CANAL+ Sport 1
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/291175
+
+#EXTINF:-1,FR: CANAL+ Sport 3
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/291177
+
+#EXTINF:-1,FR: CANAL+ Sport 4
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/297381
+
+#EXTINF:-1,FR: CANAL+ Sport 5
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/291178
+
+#EXTINF:-1,FR: CANAL+ Sport 360
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/297378
+
+#EXTINF:-1,FR: Sport
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/187484
+
+#EXTINF:-1,US - Fox College Sports Pacific
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/57221
+
+#EXTINF:-1,US - FOX Sports Wisconsin
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/57456
+
+#EXTINF:-1,US - NESN Boston
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/57435
+
+#EXTINF:-1,Now Premier Sports 1
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/69854
+
+#EXTINF:-1,Now Premier Sports 2
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/69855
+
+#EXTINF:-1,Now Premier Sports 3
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/69856
+
+#EXTINF:-1,Now Premier Sports 4
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/69857
+
+#EXTINF:-1,Now Premier Sports 5
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/69858
+
+#EXTINF:-1,Now Premier Sports 6
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/69859
+
+#EXTINF:-1,Now Premier Sports 7
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/69860
+
+#EXTINF:-1,USA - TNT Pacific
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/57198
+
+#EXTINF:-1,USA - CBS Sports Network
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/57209
+
+#EXTINF:-1,FR: Amazon Prime 1
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/298718
+
+#EXTINF:-1,FR: Amazon Prime 2
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/298719
+
+#EXTINF:-1,FR: Amazon Prime 3
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/298720
+
+#EXTINF:-1,FR: Amazon Prime 4
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/298721
+
+#EXTINF:-1,FR: Amazon Prime 5
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/298722
+
+#EXTINF:-1,FR: Amazon Prime 6
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/298723
+
+#EXTINF:-1,FR: Amazon Prime 7
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/298724
+
+#EXTINF:-1,FR: Amazon Prime 8
+http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/299259
+
+
+
+
 
